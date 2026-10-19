@@ -1,0 +1,216 @@
+Dr. Vibhisha Vaghasia
+Assistant Professor, Department of Bioinformatics  ·  Marwadi University, Rajkot
+vaghasiavibhisha@gmail.com   |   +91 83200 53683   |   Rajkot, Gujarat, India
+LinkedIn   |   Google Scholar   |   ORCID: 0009-0002-4303-1651   |   ResearchGate
+PROFESSIONAL PROFILE
+Bioinformatics researcher and educator with a Ph.D. in Bioinformatics from Gujarat University (conferred January 2026) and experience in computational proteomics and drug discovery, genomics, immunoinformatics, NGS analysis, molecular modelling, docking and dynamics, next-generation vaccine design, and emerging quantum technologies. Research experience spans Leptospira pathogenesis and vaccine design, pathogen genomics and proteomics, epitope mapping, multi-epitope vaccine design and computational screening, complemented by wet-lab experience in bacterial culturing, PCR, gel electrophoresis, DNA isolation, and whole-genome/16S sequencing. Currently extending this expertise into quantum computing and AI/ML applications for biomarker discovery, while leading research mentorship, training programmes and multidisciplinary teams in emerging computational technologies.
+Date of Birth: 17 January 1989     Nationality: Indian     Languages: English, Hindi, Gujarati
+AREAS OF EXPERTISE
+Areas of Specialization
+AI/ML & Generative AI in biomarker discovery & precision medicine
+Quantum computing in drug discovery & healthcare
+NGS data analysis, multi-omics & integrative bioinformatics
+Single-cell & spatial transcriptomics
+Proteomics, systems & structural bioinformatics
+Immunoinformatics & next-generation vaccine design
+Formulation of models for biological data
+Emerging Areas of Interest
+Computational protein engineering
+Quantum computing
+Generative AI
+Agentic AI models
+EDUCATION
+Degree
+Institute / University
+Year
+Grade
+Ph.D. in Bioinformatics
+Gujarat University
+2026
+Awarded*
+M.Sc. in Bioinformatics
+Sardar Patel University
+2012
+First Class
+B.Sc. in Bioinformatics
+Sardar Patel University
+2010
+First Class
+B.Ed.
+Singhania University
+2014
+First Class
+*Degree conferred January 2026; research period 2018–2024.
+Dissertation Projects
+Ph.D.: Proteomic insights of Leptospira for understanding the molecular pathogenesis of leptospirosis.
+M.Sc. (2012): In silico analysis and docking studies of multidrug-resistance proteins from selected Gram-positive bacteria.
+B.Sc. (2010): MSA tool for sequence comparison and analysis.
+ACADEMIC & PROFESSIONAL EXPERIENCE
+Assistant Professor, Department of BioinformaticsApr 2026 – Present
+Faculty of Engineering and Technology, Marwadi University, Rajkot, Gujarat, India
+Appointed 2 April 2026, with academic, research, mentoring and teaching responsibilities in Bioinformatics: single-cell RNA sequencing, transcriptomics, immunoinformatics, Linux, R and Python programming, biological databases, artificial intelligence, NGS analysis, and in silico vaccine and drug design.
+Research project supervisor: An Explainable Multi-Omics AI Framework for Predicting HPV-Associated Cervical Cancer Progression and Treatment Response.
+Trainee — Joint AI & Quantum Expert Programme (with AWS Braket)Feb 2026 – Present
+QpieAI, Karle Infra SEZ, Nagavara, Bengaluru, India
+Founder, Chairman & CEOAug 2025 – Mar 2026
+AnanthaQ Pvt. Ltd., Gandhinagar, Gujarat, India
+Organized a 21-day online multi-domain AI training programme covering Python, Statistics, Machine Learning, Deep Learning and Generative AI (27 Sep – 18 Oct 2025), in collaboration with Avyagraha Research and Analytics LLP and the Department of Agricultural Statistics, Applied Mathematics & Computer Science, GKVK, UAS.
+Chief Technology OfficerJun 2025 – Mar 2026
+Avyagraha Research & Analytics LLP, Ballari, Karnataka, India
+Bioinformatician (Research Project Lead)Dec 2024 – May 2025
+Elmentoz Research, Bhubaneswar, Odisha, India
+Project: Identification of key enzymes/proteins and substrate-specific molecular cascades through metagenomic and metatranscriptomic approaches.
+Research Scholar (Research Project Supervisor)Dec 2023 – Apr 2024
+Department of Botany, Bioinformatics and Climate Change Impacts Management, School of Sciences, Gujarat University, Ahmedabad
+Project: Designing a multi-epitope vaccine for malaria; mentored 10 M.Sc. dissertation students.
+Project: Pan-genome analysis of five human Plasmodium species.
+Ph.D. Research ScholarFeb 2018 – Feb 2024
+Department of Botany, Bioinformatics and Climate Change Impacts Management, School of Sciences, Gujarat University, Ahmedabad
+Project: Proteomic insights of Leptospira for understanding the molecular pathogenesis of leptospirosis.
+Senior Research FellowOct 2018 – Nov 2019
+Gujarat Biotechnology Research Centre (GBRC), Dept. of Science & Technology, Government of Gujarat, Gandhinagar
+Project: Development of a DNA-based diagnostic kit and universal vaccine candidates for leptospirosis.
+Junior Research FellowSep 2017 – Oct 2018
+Gujarat Biotechnology Research Centre (GBRC), Dept. of Science & Technology, Government of Gujarat, Gandhinagar
+Project: Development of a DNA-based diagnostic kit and vaccine for leptospirosis.
+Junior Research FellowOct 2016 – Aug 2017
+Gujarat State Biotechnology Mission (GSBTM), Dept. of Science & Technology, Government of Gujarat, Gandhinagar
+Project: In silico (proteomic) analysis of the effect of genetic variation on protein structures and potential-molecule screening for important diseases.
+Trainee, Biodiscovery GroupJul 2015 – Dec 2015
+Biodiscovery Group, Bangalore, India
+Project: Molecular modelling study for the discovery of new ligands for PPAR-γ in type 2 diabetes — virtual screening, molecular docking, ADME and toxicity study. Also completed training on “Gene Therapy & Gene Delivery” (Jun – Jul 2013).
+RESEARCH ARTICLES
+15
+Total
+4
+Corresponding
+6
+First author
+3
+Second author
+4
+Q1
+3
+Q2
+* Corresponding author.  Author’s name in bold.
+Under Review
+1.Vaghasia, V.; Avinash, G. “Artificial Intelligence and Multi-Omics Integration: Transforming the Future of Precision Oncology.” 2026.
+2.Vaghasia, V.; Maheriya, S.; Patel, S. “Pan-Genome Analysis of Five Human Plasmodium Species.” 2026.
+3.Vaghasia, V.; Kant, A.; Patel, S. “A Structural and Immunoinformatic Approach for Designing a Multiepitope Vaccine Against Malaria.” 2026.
+4.Detroja, R.; Thummar, P.; Vaghasia, R.; Avinash, G.; Vaghasia, V.*  “AI-Driven Biomarkers for Early Prediction of Type 2 Diabetes: From Multi-Omics Discovery to Clinical Translation.” 2026.
+5.Detroja, R.; Avinash, G.; Patel, S.; Vaghasia, V.*  “AI-Assisted Multi-Model Prioritization of Natural Compounds Against DPP-4 and PPARγ for Type 2 Diabetes Mellitus: An Integrated Machine Learning, Drug-Likeness, Molecular Docking and Molecular Dynamics Framework.” 2026.
+6.Detroja, R.; Vaghasia, R.; Avinash, G.; Vaghasia, V.*  “Machine Learning for Multi-Omics Integration in Type 2 Diabetes: A Critical Appraisal of Biomarker Discovery and Validation.” 2026.
+Published
+7.Thummar, P.; Patel, S.; Vaghasia, V.*  “Developing a Novel Multi-Epitope-Based Vaccine Against Human Malaria: An Immunoinformatics Approach.” Frontiers in Drug Discovery, 6, 2026.
+8.Senjaliya, J.; Vaghasia, V.; Shah, S. M. “A Comprehensive Review of Machine Learning and Deep Learning Approaches for Rainfall Forecasting: Current Progress, Challenges, and Future Directions.” Theoretical and Applied Climatology, 157(3), 2026.
+9.Vaghasia, V.; Sharma, K.; Mishra, S.; Georrge, J. “In Silico Identification of Natural Product Inhibitor for Multidrug Resistance Proteins from Selected Gram-Positive Bacteria.” In Nanotechnology and In Silico Tools, pp. 309–317, 2024.
+10.Vaghasia, V.; Lata, K. S.; Patel, S.; Das, J. “Epitope Mapping for Identification of Potential Cross-Reactive Peptide for Vaccine Design Against Leptospirosis.” Journal of Biomolecular Structure and Dynamics, 2023.
+11.Vaghasia, V.; Lata, K. S.; Patel, S.; Das, J. “Deciphering the Lysine Acetylation Pattern of Leptospiral Strains by In Silico Approach.” Network Modeling Analysis in Health Informatics and Bioinformatics, 2023.
+12.Lata, K. S.; Vaghasia, V.; Bhairappanavar, S. B.; Kumar, S.; Ayachit, G.; Patel, S.; Das, J. “Whole Genome Sequencing and De Novo Assembly of Three Virulent Indian Isolates of Leptospira.” Infection, Genetics and Evolution, 104579, 2020.
+13.Lata, K. S.; Vaghasia, V.; Bhairappanavar, S.; Patel, S.; Das, J. “Vaccine Design Against Leptospirosis Using an Immunoinformatic Approach.” In Immunoinformatics, pp. 173–184. Humana, New York, NY, 2020.
+14.Lata, K. S.; Kumar, S.; Vaghasia, V.; Sharma, P.; Bhairappanavar, S. B.; Soni, S.; Das, J. “Exploring Leptospiral Proteomes to Identify Potential Candidates for Vaccine Design Against Leptospirosis Using an Immunoinformatics Approach.” Scientific Reports, 8, 6935, 2018.
+15.Beriwal, S.; Padhiyar, N.; Bhatt, D.; Pandit, P. D.; Ansari, A.; Lata, K. S.; Saiyed, Z.; Vaghasia, V.; Soni, S. “LeptoDB: An Integrated Database of Genomics and Proteomics Resources of Leptospira.” Database, 2018.
+INVITED EXPERT TALKS & ORAL PRESENTATIONS
+Delivered talk as a faculty coordinator in IIT Bombay virtual lab on Bioinformatics and Data Science in Biotechnology during 13 October, 2026 at Marwadi University
+Expert talk on Metagenomics during the 5-day STTP “Data to Discovery: An Integrative Bioinformatics Approach”, Department of Bioinformatics, Faculty of Engineering and Technology, Marwadi University, Rajkot (16–20 Mar 2026).
+Hands-on session, “Decoding Microbial Communities through Metagenomics Data Analysis”, during the same STTP, Marwadi University, Rajkot (16–20 Mar 2026).
+Talk and hands-on session on NGS, Transcriptomics and Whole-Exome Sequencing Analysis during the 15-day Summer Internship 2026, Department of Bioinformatics, Marwadi University, Rajkot (1–15 Jun 2026).
+Oral presentation, “Exploring Potential Cross-Reactive Peptides to Combat Leptospirosis: An Immunoinformatic Approach”, INCD-2024: 6th International Conference on Nutraceuticals & Chronic Diseases and 10th Meeting of the Society for Translational Cancer Research, Panjab University, Chandigarh (22–24 Feb 2024).
+Invited resource person on NGS Analysis, NVPAS, Vallabh Vidyanagar.
+Invited resource person on Proteomics Tools and Software, Ganpat University.
+Invited expert Doctoral Advisory Committee (DAC) member for Ph.D. students, Marwadi University.
+TRAINING PROGRAMMES & EVENTS ORGANIZED
+Coordinator, Summer Internship 2026, Department of Bioinformatics, Faculty of Engineering and Technology, Marwadi University, Rajkot (1–15 Jun 2026).
+Organizing committee member, BIOTHON 2026, a national-level bio-hackathon, Department of Bioinformatics, Marwadi University, Rajkot (1 Jun – 22 Jul 2026).
+21-Day Multi-Domain AI Training Programme (27 Sep – 18 Oct 2025), organized by Avyagraha Research and Analytics LLP with AnanthaQ and UAS, GKVK, Bengaluru; covered Python, Machine Learning and Deep Learning with real-world datasets across agriculture, healthcare, finance and geoinformatics.
+TECHNICAL & LABORATORY SKILLS
+Computational & Bioinformatics
+Bioinformatics: sequence analysis, comparative genomics, proteomics, NGS, transcriptomics, metagenomics, pathway and network analysis
+Immunoinformatics: B-cell/T-cell epitope prediction, antigenicity/allergenicity/toxicity screening, conservancy analysis, multi-epitope vaccine design
+Structural bioinformatics: protein structure modelling, docking, dynamics simulation, molecular interaction analysis
+Drug discovery: virtual screening, molecular modelling, ADME/Tox analysis, ligand screening, PPARγ-related computational studies
+Data & databases: Sanger sequencing analysis, database development, R-based data analysis
+Programming & platforms: Python, R, Linux/Unix; MATLAB and CLC Genomics (applied); hands-on training in the Schrödinger software suite
+Molecular Biology & Wet-Lab
+Bacterial pathogen culturing, handling and maintenance
+Polymerase chain reaction (PCR) and agarose gel electrophoresis
+DNA isolation; bacterial whole-genome and 16S sequencing
+Bioanalyzer operation
+RECOGNITION & MEDIA
+Submitted three sequences to NCBI.
+Hosted the national-level hackathon BIOTHON 2026.
+National Cadet Corps (NCC) ‘B’ Certificate, Grade ‘B’ — 4 Gujarat (G) Bn NCC, NCC Directorate Gujarat; examination held under the authority of the Ministry of Defence, Government of India (2008; issued by NCC Group HQ, V.V. Nagar, Sep 2008).
+NCC Annual Training Camp, Nadiad — attended as Cadet, 4 Gujarat Girls Bn NCC; stood First in Drill (17–28 Aug 2007).
+The Hindu — “Gandhinagar team takes initial steps to develop a vaccine for leptospirosis”
+BioSpectrum India — press/article coverage
+QUANTUM TECHNOLOGY CERTIFICATIONS (EICT, IITS, NITS & IISC)
+2026
+QT-11 Quantum Optics — 40-hour (3-credit) FDP, Excellent performance; jointly organized by EICT Academies at MNIT Jaipur, IIT Kanpur, IIT Guwahati, IIT Roorkee and NIT Patna (5–29 Jun 2026).
+QT-10 Solid State Physics for Quantum Technologies — 40-hour (3-credit) FDP, Excellent performance; jointly organized by EICT Academies at MNIT Jaipur, IIT Kanpur, IIT Roorkee and NIT Patna (8–30 May 2026).
+QT-09 Engineering Foundations of Quantum Technologies — 44-hour (3-credit) FDP, Excellent performance; jointly organized by EICT Academies at MNIT Jaipur, IIT Kanpur, IIT Roorkee, IIT Guwahati and IIITDM Jabalpur (10 Apr – 2 May 2026).
+QT-08 Quantum Materials — 44-hour (3-credit) FDP, Excellent performance; jointly organized by EICT Academies at MNIT Jaipur, IIT Kanpur, NIT Patna and IIITDM Jabalpur (9 Mar – 2 Apr 2026).
+2025
+QT-07 Quantum Sensing — 40-hour (3-credit) FDP, Excellent performance; jointly organized by EICT Academies at MNIT Jaipur, IIT Kanpur, NIT Patna and IIITDM Jabalpur (26 Sep – 17 Oct 2025).
+QT-02 Foundations of Quantum Technologies — 40-hour (3-credit) FDP, Excellent performance; jointly organized by EICT Academies at MNIT Jaipur and APSCHE (19 Sep – 16 Oct 2025).
+QT-06 Quantum Communication — 40-hour (3-credit) FDP, Excellent performance; jointly organized by EICT Academies at MNIT Jaipur, IIT Kanpur, NIT Patna and IIITDM Jabalpur (18 Aug – 11 Sep 2025).
+QT-05 Quantum Computation — 40-hour (3-credit) FDP, Very Good performance; jointly organized by EICT Academies at MNIT Jaipur, IIT Kanpur, IIT Roorkee, IIT Guwahati, NIT Warangal and NIT Patna (11 Jul – 2 Aug 2025).
+QT-03 Basics of Quantum Programming — 40-hour (3-credit) FDP, Excellent performance; jointly organized by EICT Academies at MNIT Jaipur, IIT Kanpur, IIT Roorkee, IIT Guwahati, NIT Warangal, NIT Patna and IIITDM Jabalpur (16 May – 7 Jun 2025).
+Two-day offline workshop on Quantum Computing, conducted by Ethical Edufabrica Pvt. Ltd. with Pravega and IISc Bangalore (15–16 Nov 2025).
+FDP on Quantum Computing, organized by Ramrao Adik Institute of Technology (D Y Patil University, Navi Mumbai), New Horizon College of Engineering (Bengaluru) and KIIT University (Bhubaneswar), with ExcelR Edtech Pvt. Ltd. (11–18 Aug 2025).
+Diploma certificate, QWorld Bronze-Qiskit online workshop on Quantum Computing & Programming (Aug 2025).
+FDP, Dive into Quantum: Hands-on with Qiskit, Research Trends and Tech Pathways, EICT Academy, IIT Roorkee, with SRM Institute of Science and Technology, Tiruchirappalli (7–11 Jul 2025).
+Quantum India Dialogues webinar, Exploring Education and Careers in Quantum Technologies, Mission Coordination Cell of the National Quantum Mission, IIT Kanpur (15 Jul 2025).
+CONFERENCES, WORKSHOPS & TRAINING IN EMERGING TECHNOLOGIES
+2026
+Foundational Course on Applied Machine Learning and AI (1934 hours), Confederation of Indian Industry (CII), Delhi (completed 22 Sep 2026).
+Genomics India Conference 2026 — “Genome to Bioeconomy: Innovation, Impact and Economic Transformation”, Dr. Babu Rajendra Prasad International Convention Centre, Bengaluru (2–3 Sep 2026).
+WiSDom-WONDER 2026 (Women in Scientific Domain — Outreach Network for Development, Empowerment and Research), a flagship initiative of INYAS under INSA, with Gujarat Biotechnology University (17–18 Aug 2026).
+Single-Cell RNA-Seq Data Analysis — 30-day workshop programme, OmicsLogic Bioinformatics Training (completed 6 Aug 2026).
+LaTeX & Overleaf Mastery Sprint — 3-day hands-on online workshop on scientific typesetting, research-paper and thesis preparation, Beamer decks and conference posters, Avyagraha Research and Analytics LLP (6–8 Jul 2026).
+R-STAT 2.0 — 10-day hands-on training programme on statistical techniques and data analysis with R, Avyagraha Research and Analytics LLP (11–21 May 2026).
+DataSprint_30 — 30-day professional development programme in Data Science, AI and Business Intelligence (Python, SQL, Power BI, Advanced Excel, Statistics, LaTeX, ML, DL and Generative AI), Avyagraha Research and Analytics LLP (2 Mar – 10 Apr 2026).
+Wet-Lab to Dry-Lab: Integrated Metagenomics Workshop — wet-lab component at Genexplore Diagnostics and Research Centre Pvt. Ltd., Ahmedabad (9–11 Feb 2026); dry-lab component online with OmicsLogic Bioinformatics & Data Science India (OPC) Pvt. Ltd. (11–14 Feb 2026).
+R-STAT Journey: Decode Data with R Programming and Statistics — 10-day hands-on training, Avyagraha Research and Analytics LLP (9–18 Jan 2026).
+2025
+CNMS-JU’s First Academia–Industry Conclave 2025, Centre for Nano and Material Sciences, JAIN (Deemed-to-be University), Bengaluru (2–3 Sep 2025).
+2021
+Poster presentation, Recent Advances in Applied Sciences, Technology and Health (RASTH 2021), SRM Institute of Science and Technology, Kattankulathur, Tamil Nadu (3–5 Mar 2021).
+2016 – 2018
+Resource person, National Workshop on Multi-Omics Data Integration (Phase I), Dept. of Biotechnology, Genetics & Bioinformatics, N. V. Patel College of Pure and Applied Sciences (21–22 Dec 2018).
+Workshop, Emerging NGS Technology & Bioinformatics Update, Gujarat State Biotechnology Mission with Imperial Life Sciences (26 Jul 2017).
+Assisted in the theme seminar Genes, Gene Editing and the New Biotechnology, Mahatma Mandir, Gandhinagar (Vibrant Gujarat Global Summit 2017).
+Attended the Nobel Dialogue Series (2017).
+Workshop, Structural Proteomics of Macromolecular Complexes using X-ray Crystallography and Mass Spectrometry, UNESCO Regional Centre for Biotechnology, Faridabad (18–20 Dec 2016).
+International symposium, Computational Biology and DNA Computing, Gujarat State Biotechnology Mission & DA-IICT, Gandhinagar (26 Nov 2016).
+Delegate, National Summit on Innovation and Technology (2016) — session on Biotechnology, IT, Electronics and Start-Ups, Mahatma Mandir, Gandhinagar; also assisted in organizing this pre-Vibrant Gujarat event.
+Assisted in the Workshop on Research Grant Writing, jointly with NASI, India.
+Attended webinars on MATLAB and CLC Genomics; completed two-day hands-on training on the Schrödinger software suite.
+2009 – 2014
+Workshop, Drug Discovery Technology: Practical Approach of Computational Tools & Methods in Drug Discovery and ADMET Property Prediction, BioDiscovery Group Life Sciences India with Dept. of Biological Sciences, Bangalore University (5–12 Mar 2014).
+Three-day workshop, Tools and Techniques in Bioinformatics and Molecular Biology, Dept. of Biotechnology, Genetics and Bioinformatics, N. V. Patel College of Pure and Applied Sciences, Vallabh Vidyanagar (4–6 Dec 2009).
+Workshop, Bioinformatics Tools for Molecular Modeling and Drug Designing, G. H. Patel P.G. Dept. of Computer Science & Technology, Sardar Patel University (22–24 Sep 2009).
+PROFESSIONAL REFERENCES
+Dr. Rakesh M. Rawal, Ph.D.
+Professor and Head, Medical Biotechnology
+Gujarat Biotechnology University, Gandhinagar, Gujarat
+Tel: +91 99252 44855
+Email: rakeshmrawal@gmail.com
+Dr. Snehal Bagtharia
+Joint Director, Gujarat State Biotechnology Mission
+Department of Science & Technology, Government of Gujarat
+Tel: +91 99784 41466
+Email: drsnehal.bagatharia@gmail.com
+L. Venkata Subramaniam
+CEO, Qbit Force
+Vijayawada (Urban), Krishna, Andhra Pradesh
+Tel: +91 98104 91740
+Email: venkat@qbitforcequantum.com
+Dr. Anasuya (Lahiry) Bhadalkar
+Joint Director, Gujarat State Biotechnology Mission
+Gandhinagar, Gujarat
+Tel: +91 94273 55465
+Email: lahiryanasuya@gmail.com
+DECLARATION
+I hereby declare that the information provided in this curriculum vitae is based on my academic, professional, research, training and certificate records and is true to the best of my knowledge.
+Place: RajkotDr. Vibhisha Vaghasia
+Date: ____________
