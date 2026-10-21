@@ -21,9 +21,21 @@ document.addEventListener('DOMContentLoaded', () => {
    ========================================================================== */
 function initTheme() {
   const themeToggle = document.getElementById('theme-toggle');
-  // Default strictly to light theme; only use dark if user explicitly selected it previously
-  const storedTheme = localStorage.getItem('vv_portfolio_theme');
-  const currentTheme = storedTheme === 'dark' ? 'dark' : 'light';
+  
+  // Clear legacy key so old auto-detected dark mode from previous visits doesn't persist
+  try {
+    if (localStorage.getItem('vv_portfolio_theme')) {
+      localStorage.removeItem('vv_portfolio_theme');
+    }
+  } catch(e) {}
+
+  // Default strictly to light theme
+  let currentTheme = 'light';
+  try {
+    const saved = localStorage.getItem('vv_theme_pref');
+    if (saved === 'dark') currentTheme = 'dark';
+  } catch(e) {}
+
   document.documentElement.setAttribute('data-theme', currentTheme);
   updateThemeIcon(currentTheme);
 
@@ -32,7 +44,9 @@ function initTheme() {
       const activeTheme = document.documentElement.getAttribute('data-theme');
       const newTheme = activeTheme === 'dark' ? 'light' : 'dark';
       document.documentElement.setAttribute('data-theme', newTheme);
-      localStorage.setItem('vv_portfolio_theme', newTheme);
+      try {
+        localStorage.setItem('vv_theme_pref', newTheme);
+      } catch(e) {}
       updateThemeIcon(newTheme);
       window.dispatchEvent(new CustomEvent('themeChanged', { detail: { theme: newTheme } }));
     });
