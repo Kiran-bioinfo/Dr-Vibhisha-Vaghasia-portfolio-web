@@ -21,10 +21,9 @@ document.addEventListener('DOMContentLoaded', () => {
    ========================================================================== */
 function initTheme() {
   const themeToggle = document.getElementById('theme-toggle');
+  // Default strictly to light theme; only use dark if user explicitly selected it previously
   const storedTheme = localStorage.getItem('vv_portfolio_theme');
-  const prefersDark = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
-  
-  const currentTheme = storedTheme ? storedTheme : (prefersDark ? 'dark' : 'light');
+  const currentTheme = storedTheme === 'dark' ? 'dark' : 'light';
   document.documentElement.setAttribute('data-theme', currentTheme);
   updateThemeIcon(currentTheme);
 
