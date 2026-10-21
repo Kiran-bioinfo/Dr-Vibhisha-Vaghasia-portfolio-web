@@ -218,10 +218,6 @@ function initHeroCanvas() {
     mouse.y = -1000;
   });
 
-  window.addEventListener('themeChanged', () => {
-    // Redraw with new theme colors immediately
-  });
-
   resize();
 }
 
@@ -298,9 +294,9 @@ function initPublicationsFilter() {
 
     pubCards.forEach(card => {
       const categories = card.dataset.category ? card.dataset.category.split(' ') : [];
-      const title = card.querySelector('.pub-title')?.innerText.toLowerCase() || '';
-      const authors = card.querySelector('.pub-authors')?.innerText.toLowerCase() || '';
-      const journal = card.querySelector('.pub-journal')?.innerText.toLowerCase() || '';
+      const title = card.querySelector('.pub-title')?.textContent.toLowerCase() || '';
+      const authors = card.querySelector('.pub-authors')?.textContent.toLowerCase() || '';
+      const journal = card.querySelector('.pub-journal')?.textContent.toLowerCase() || '';
       const year = card.dataset.year || '';
 
       const matchesFilter = (activeFilter === 'all') || categories.includes(activeFilter);
@@ -462,6 +458,24 @@ const BIBTEX_DATABASE = {
   "vaghasia2026plasmodium": `@article{vaghasia2026pan,
   title={Pan-Genome Analysis of Five Human Plasmodium Species},
   author={Vaghasia, Vibhisha and Maheriya, S. and Patel, S.},
+  journal={Manuscript Under Review},
+  year={2026}
+}`,
+  "vaghasia2026malaria": `@article{vaghasia2026malaria,
+  title={A Structural and Immunoinformatic Approach for Designing a Multiepitope Vaccine Against Malaria},
+  author={Vaghasia, Vibhisha and Kant, A. and Patel, S.},
+  journal={Manuscript Under Review},
+  year={2026}
+}`,
+  "detroja2026dpp4": `@article{detroja2026dpp4,
+  title={AI-Assisted Multi-Model Prioritization of Natural Compounds Against DPP-4 and PPARγ for Type 2 Diabetes Mellitus},
+  author={Detroja, R. and Avinash, G. and Patel, S. and Vaghasia, Vibhisha},
+  journal={Manuscript Under Review},
+  year={2026}
+}`,
+  "detroja2026mlintegration": `@article{detroja2026mlintegration,
+  title={Machine Learning for Multi-Omics Integration in Type 2 Diabetes: A Critical Appraisal of Biomarker Discovery and Validation},
+  author={Detroja, R. and Vaghasia, R. and Avinash, G. and Vaghasia, Vibhisha},
   journal={Manuscript Under Review},
   year={2026}
 }`
@@ -642,7 +656,7 @@ function initCertificateModal() {
 
     overlay.classList.add('is-open');
     document.body.style.overflow = 'hidden';
-    closeBtn.focus();
+    closeBtn?.focus();
   }
 
   function closeCertModal() {

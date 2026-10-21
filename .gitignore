@@ -1,0 +1,13 @@
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# Editor directories
+.vscode/
+.idea/
+
+# Python cache & extraction scratch
+__pycache__/
+*.pyc
+cv_extracted.txt
+cv_text.txt
